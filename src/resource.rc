@@ -1,0 +1,3 @@
+#include "resource.h"
+
+skype_icon ICON "../Letter_S_blue_34883.ico"
